@@ -1,0 +1,20 @@
+.warna{
+    color:white;
+    background-color: blueviolet;
+    font-size: 24pt;
+}
+#firstname {
+    background-color: yellow;
+}
+
+* {
+    background-color: whitesmoke;
+  }
+
+  a[target] {
+    background-color: plum;
+  }
+
+  [title~=flower] {
+    border: 5px solid blue;
+  }
